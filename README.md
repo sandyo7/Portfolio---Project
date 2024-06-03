@@ -77,3 +77,9 @@ Certainly! Here's a concise "Skills Summary" for someone skilled in Python, Djan
 Proficient in a range of programming languages and technologies, I excel in backend and frontend development alike. Leveraging Python, I handle backend logic seamlessly, whether it's crafting APIs, processing data, or automating tasks. On the frontend, I wield HTML, CSS, and JavaScript adeptly to create visually stunning and interactive user interfaces. With expertise in jQuery, I enhance frontend interactivity through efficient DOM manipulation and event handling. Additionally, my proficiency in SQL enables me to manage databases effectively, ensuring optimized data storage and retrieval.
 
 In the realm of technologies and tools, I harness the power of ReactJS to build dynamic and responsive user interfaces, while Node.js and Express.js empower me to develop robust server-side solutions using JavaScript. PostgreSQL serves as my go-to for relational databases, enabling scalable and reliable data management. I leverage Bootstrap for rapid prototyping and responsive web design, ensuring compatibility across various devices. Git & GitHub are essential components of my workflow, facilitating seamless version control and collaboration. And with Figma, I bring creative designs to life, prototyping user interfaces and collaborating effectively with design teams.
+
+Screenshots:
+![Screenshot (65)](https://github.com/sandyo7/Portfolio---Project/assets/119475185/44b06cb7-8896-4255-9714-88c75a6c6784)
+![Screenshot (66)](https://github.com/sandyo7/Portfolio---Project/assets/119475185/f5a2bb0f-56a0-4a13-be11-2850f5d02c08)
+![Screenshot (67)](https://github.com/sandyo7/Portfolio---Project/assets/119475185/c713299e-4be9-4d96-941a-efcae76466a8)
+
